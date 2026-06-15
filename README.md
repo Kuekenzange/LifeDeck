@@ -10,7 +10,7 @@ LifeDeck nutzt ein altes Android Tablet (In den Beispielen ein LifeTab E7312 mit
 
 
 
-Auf dem Tablet muss die App installiert werden und USB-Debugging über die Entwickleroptionen aktiviert sein. Außerdem muss das Tablet über USB mit dem Host PC verbunden sein. Für modernere Android Versionen kann es sein das die App neu Compiled werden muss. Der ganze Sourcecode ist im Android Ordner enthalten. Außerdem kann man die Orientierung der App um 180° drehen wenn man für mindestens eine Sekunde auf oberen Navigationsbalken klickt. 
+Auf dem Tablet muss die App installiert werden und USB-Debugging über die Entwickleroptionen aktiviert sein. Außerdem muss das Tablet immer über USB mit dem Host PC verbunden sein. Die jetzige App ist für Android 4.2.2 optimiert, für modernere Android Versionen kann es sein das die App neu Compiled werden muss. Der ganze Sourcecode ist im Android Ordner enthalten. Außerdem kann man die Orientierung der App um 180° drehen wenn man für mindestens eine Sekunde auf oberen Navigationsbalken klickt. 
 
 ![Screenshot](images/LifeDeckApp.png)
 
