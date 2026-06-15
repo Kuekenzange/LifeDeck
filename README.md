@@ -22,7 +22,7 @@ Auf dem Tablet muss die App installiert werden (im Android Ordner namens LifeDec
 
 
 
-Auf der PC Seite muss das LifeDeck Studio Programm gestartet werden (befindet sich in volgendem Pfad: LifeDeck.Studio --> bin --> Debug --> net8.0-windows --> LifeDeck.Studio.exe) welches die Hauptlogik und das Interface zur Bearbeitung aller Buttons, Plugins und Aktionen enthält. 
+Auf der PC Seite muss das LifeDeck Studio Programm gestartet werden (befindet sich in folgendem Pfad: LifeDeck.Studio --> bin --> Debug --> net8.0-windows --> LifeDeck.Studio.exe) welches die Hauptlogik und das Interface zur Bearbeitung aller Buttons, Plugins und Aktionen enthält. 
 
 LifeDeck Studio ist in vier Hauptteile unterteilt. Die obere Hauptleiste zum Speichern und Laden der Sitzung, der Projekt-Explorer zum erstellen, löschen und umbenennen der unterschiedlichen Seiten und der Auswahl der zu bearbeitenden Plugins, eine Vorschau der Buttons und ein Eigenschaften Teil mit verschiedenen Tabs um die Buttons und Plugins zu bearbeiten.
 
