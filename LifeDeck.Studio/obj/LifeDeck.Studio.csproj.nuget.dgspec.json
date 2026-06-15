@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\benku\\Downloads\\LifeDeck_v1_9_2_streamerbot_reconnect\\LifeDeck.Studio\\LifeDeck.Studio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\benku\\Downloads\\LifeDeck_v1_9_2_streamerbot_reconnect\\LifeDeck.Studio\\LifeDeck.Studio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\benku\\Downloads\\LifeDeck_v1_9_2_streamerbot_reconnect\\LifeDeck.Studio\\LifeDeck.Studio.csproj",
+        "projectName": "LifeDeck.Studio",
+        "projectPath": "C:\\Users\\benku\\Downloads\\LifeDeck_v1_9_2_streamerbot_reconnect\\LifeDeck.Studio\\LifeDeck.Studio.csproj",
+        "packagesPath": "C:\\Users\\benku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\benku\\Downloads\\LifeDeck_v1_9_2_streamerbot_reconnect\\LifeDeck.Studio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\benku\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
