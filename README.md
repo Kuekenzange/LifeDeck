@@ -10,7 +10,7 @@ LifeDeck nutzt ein altes Android Tablet (In den Beispielen ein LifeTab E7312 mit
 
 
 
-Auf dem Tablet muss die App installiert werden und USB-Debugging über die Entwickleroptionen aktiviert sein. Außerdem muss das Tablet immer über USB mit dem Host PC verbunden sein. Die jetzige App ist für Android 4.2.2 optimiert, für modernere Android Versionen kann es sein das die App neu Compiled werden muss. Der ganze Sourcecode ist im Android Ordner enthalten. Außerdem kann man die Orientierung der App um 180° drehen wenn man für mindestens eine Sekunde auf oberen Navigationsbalken klickt. 
+Auf dem Tablet muss die App installiert werden (im Android Ordner namens LifeDeck.apk) und USB-Debugging über die Entwickleroptionen aktiviert sein. Außerdem muss das Tablet immer über USB mit dem Host PC verbunden sein. Die jetzige App ist für Android 4.2.2 optimiert, für modernere Android Versionen kann es sein das die App neu Compiled werden muss. Der ganze Sourcecode ist im Android Ordner enthalten. Außerdem kann man die Orientierung der App um 180° drehen wenn man für mindestens eine Sekunde auf oberen Navigationsbalken klickt. 
 
 ![Screenshot](images/LifeDeckApp.png)
 
@@ -22,7 +22,7 @@ Auf dem Tablet muss die App installiert werden und USB-Debugging über die Entwi
 
 
 
-Auf der PC Seite muss das LifeDeck Studio Programm gestartet werden welches die Hauptlogik und das Interface zur Bearbeitung aller Buttons, Plugins und Aktionen enthält. 
+Auf der PC Seite muss das LifeDeck Studio Programm gestartet werden (befindet sich in volgendem Pfad: LifeDeck.Studio --> bin --> Debug --> net8.0-windows --> LifeDeck.Studio.exe) welches die Hauptlogik und das Interface zur Bearbeitung aller Buttons, Plugins und Aktionen enthält. 
 
 LifeDeck Studio ist in vier Hauptteile unterteilt. Die obere Hauptleiste zum Speichern und Laden der Sitzung, der Projekt-Explorer zum erstellen, löschen und umbenennen der unterschiedlichen Seiten und der Auswahl der zu bearbeitenden Plugins, eine Vorschau der Buttons und ein Eigenschaften Teil mit verschiedenen Tabs um die Buttons und Plugins zu bearbeiten.
 
